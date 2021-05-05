@@ -1,0 +1,8 @@
+git init
+git add 올릴 파일이나 폴더
+git commit -m 'first commit'
+git remote add origin https://github.com/Yeonhoon/mypage.git
+git push -u origin master
+
+#pull
+git pull origin master
