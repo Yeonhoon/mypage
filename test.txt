@@ -5,4 +5,10 @@ git remote add origin https://github.com/Yeonhoon/mypage.git
 git push -u origin master
 
 #pull
-git pull origin master
+git pull origin master 
+
+#mysql
+sudo mysql -u root -p
+use db명
+show databases;
+show tables;
